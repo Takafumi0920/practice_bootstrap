@@ -4,3 +4,8 @@
 .col {
 	border: 1px solid black;
 }
+/*ページ内リンク位置調整*/
+section {
+margin-top: -60px;
+padding-top: 60px;
+}
